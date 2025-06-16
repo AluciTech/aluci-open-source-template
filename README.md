@@ -1,3 +1,14 @@
+# Aluci's Open Source Project Template
+
+## Overview
+
+This repository provides a reusable template for creating open source projects that follow Aluci's engineering and documentation standards. It is intended for internal teams and external contributors alike.
+
+## README Template
+
+You can use the following as a starting point for your project's README file. Make sure to fill in the placeholders with relevant information about your project.
+
+```markdown
 # Name of the project
 
 In case of early development, please include a warning:
@@ -7,7 +18,7 @@ In case of early development, please include a warning:
 
 ## Overview
 
-This project is a [brief description of the project]. It aims to [describe the main goal or functionality of the project].
+This project is [brief description]. Its goal is to [main goal or functionality].
 
 ## Setup
 
@@ -22,6 +33,13 @@ Always include a recommended setup section, even if it's just a single command.
 ## Usage
 
 Always include a usage section, even if it's just a single command.
+
+## License
+
+This project is licensed under the Apache License (Version 2.0).
+
+See the [LICENSE](LICENSE) file for details.
+```
 
 ## License
 
