@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a reusable template for creating open source projects that follow Aluci's engineering and documentation standards. It is intended for internal teams and developers who want to quickly set up a new project with a consistent structure and best practices.
+This repository provides a reusable template for creating open source projects that follow Aluci's engineering and documentation standards. It is intended for developers who want to quickly set up a new project with a consistent structure and best practices.
 
 ## README Template
 
@@ -39,6 +39,11 @@ Always include a usage section, even if it's just a single command.
 This project is licensed under the Apache License (Version 2.0).
 
 See the [LICENSE](LICENSE) file for details.
+
+## AI Usage Transparency
+
+This project uses AI tools such as ChatGPT to assist with development.
+For more details, see the [AI Usage Disclosure](AI_USAGE.md) file.
 ```
 
 ## License
