@@ -1,5 +1,7 @@
 # Aluci's Open Source Project Template
 
+[![GitHub License](https://img.shields.io/github/license/AluciTech/aluci-open-source-template)](LICENSE)
+
 ## Overview
 
 This repository provides a reusable template for creating open source projects that follow Aluci's engineering and documentation standards. It is intended for developers who want to quickly set up a new project with a consistent structure and best practices.
