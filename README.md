@@ -13,6 +13,8 @@ You can use the following as a starting point for your project's README file. Ma
 ```markdown
 # Name of the project
 
+> Add a license or any other shield from [shields.io](https://shields.io/).
+
 In case of early development, please include a warning:
 
 > [!WARNING]
